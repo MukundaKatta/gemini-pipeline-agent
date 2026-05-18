@@ -3,7 +3,9 @@
 A GitLab CI failure triage agent built on Google Cloud Agent Builder
 (ADK), Gemini 2.5, and the GitLab MCP server.
 
-Open source under Apache 2.0.
+**Live demo:** https://gemini-pipeline-agent-1029931682737.us-central1.run.app
+**Demo video:** https://youtu.be/CwABJ9053O4 (2:02)
+**License:** Apache 2.0
 
 ## What it does
 
